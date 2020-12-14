@@ -7,12 +7,4 @@ public class HR extends User {
         super(name, age, email, id);
     }
 
-    public void addEmployee(){
-
-    }
-
-
-    public void removeEmployee(){
-
-    }
 }
